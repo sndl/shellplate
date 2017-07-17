@@ -7,7 +7,7 @@ environment variables:
 __VAR1__=value1
 ```
 
-config_file.conf:
+/etc/config_file.conf:
 ```
 option1=__VAR1__
 ```
