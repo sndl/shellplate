@@ -4,7 +4,7 @@ Simple shell template engine, that can be used in containers to process config f
 ## Usage example
 environment variables:
 ```
-__VAR1__=value1
+VAR1=value1
 ```
 
 /etc/config_file.conf:
